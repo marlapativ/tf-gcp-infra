@@ -48,6 +48,9 @@ For additional info regarding enabling cli via services, refer [here](https://cl
 ## Usage
 
 The following variables are required to create a VPC via terraform.
+
+**Note: README hasn't been updated yet to reflect all the variables and outputs.**
+
 | Variable                                                 | Type   | Required       | Description                                                           | Default                                       |
 | -------------------------------------------------------- | ------ | -------------- | --------------------------------------------------------------------- | --------------------------------------------- |
 | project_id                                               | string | yes            | The ID of the GCP project.                                            |                                               |
